@@ -1,0 +1,81 @@
+body {
+    background-color: #FFCCE6;
+}
+
+h1, h5 {
+    color: #66004C;
+    text-align: center;
+    font-family: "Verdana";
+}
+
+p {
+    color: #000000;
+    font-family: "Verdana";
+    font-size: 15px;
+}
+
+li {
+  color: #660033;
+  font-family: "Verdana";
+  font-size: 12px;
+}
+
+a:link {
+    color: #FF0066;
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: #FF0066;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: #6BB28F;
+    border-bottom: 2px dotted;
+    text-decoration: none;
+}
+
+
+a:active {
+    color: #FF0066;
+    text-decoration: none;
+}
+
+.circle {
+  position: relative;
+  margin: 10px;
+  top: 5px;
+	width: 200px;
+	height: 200px;
+	border-radius: 30%;
+  float: left;
+  border: solid 1px #000000;
+	background: url(https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/139/11f/37b6d3e.jpg) no-repeat;
+	}
+
+
+#info, #basic {
+  padding: 5px;
+  text-align: center;
+  background-color: #99FFCC;
+  border: solid 1px #000000;
+}
+
+.list {
+  text-align: left;
+  background-color: #E0FFF0;
+  border: solid 1px #000000;
+  padding: 20px;
+  display: none;
+}
+
+#stitch {
+  height: 240px;
+  width: 320px;
+  margin: 0 auto;;
+  border: solid 1px #000000;
+  background: url(https://mail.google.com/mail/u/0/?ui=2&ik=0d5ca342ef&view=fimg&th=13abe57f759e47f0&attid=0.1&disp=emb&attbid=ANGjdJ_kSX5wAisfy0fVFJQfa8V4Y8ff3lCDMDdod6zorX1NS5oCoqTjN5CMVO--2P58wPWv3jYIQ8M6pgg4jfIeuSpnKZ7hy6U2rPLj6hskhqMyIkgFZtHUx2ldzaU&sz=w648-h480&ats=1429374811869&rm=13abe57f759e47f0&zw&atsh=1) no-repeat;
+}
